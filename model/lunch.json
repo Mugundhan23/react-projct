@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name":"Chicken Biriyani",
+        "image": "image/biriani.jpg",
+        "discription":"good food",
+        "price":150
+    },
+    {
+        "id": 2,
+        "name":"Chicken 65 Biriyani",
+        "image": "image/65biryani.jpg",
+        "discription":"good food",
+        "price":180
+    },
+    {
+        "id": 3,
+        "name":"Mutton Biriyani",
+        "image": "image/muttonbiryani1.jpg",
+        "discription":"good food",
+        "price":220
+    },
+    {
+        "id": 4,
+        "name":"Mutton nalli Biriyani",
+        "image": "image/mutton.jpg",
+        "discription":"good food",
+        "price":240
+    },
+    {
+        "id": 5,
+        "name":"Grilled",
+        "image": "image/grild1.jpg",
+        "discription":"good food",
+        "price":620
+    },
+    {
+        "id": 6,
+        "name":"Fish Meels",
+        "image": "image/fishrice.jpg",
+        "discription":"good food",
+        "price":160
+    },
+    {
+        "id": 7,
+        "name":"Fish Fry",
+        "image": "image/fishfry.jpg",
+        "discription":"good food",
+        "price":80
+    },
+    {
+        "id": 8,
+        "name":"Sambar Rice",
+        "image": "image/sambarrice.jpg",
+        "discription":"good food",
+        "price":50
+    },{
+        "id": 9,
+        "name":"Tomato Rice",
+        "image": "image/tomatorice.jpg",
+        "discription":"good food",
+        "price":50
+    },{
+        "id": 10,
+        "name":"Tamarind Rice",
+        "image": "image/pulirice.jpg",
+        "discription":"good food",
+        "price":50
+    }
+
+]

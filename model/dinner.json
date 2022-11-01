@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "idyapam",
+        "image": "image/idyapam.jpg",
+        "discription": "good food",
+        "price": 70
+    },
+    {
+        "id": 2,
+        "name": "Naan",
+        "image": "image/nann.jpg",
+        "discription": "good food",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "name": "chapathi",
+        "image": "image/chpathi.jpg",
+        "discription": "good food",
+        "price": 60
+    },
+    {
+        "id": 4,
+        "name": "Chicken Fried Rice",
+        "image": "image/chickenrice.png",
+        "discription": "good food",
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Chicken Noodles",
+        "image": "image/vegnoodles.jpg",
+        "discription": "good food",
+        "price": 150
+    },
+    {
+        "id": 6,
+        "name": "Egg rice",
+        "image": "image/eggrice.jpg",
+        "discription": "good fo od",
+        "price": 120
+    },
+    {
+        "id": 7,
+        "name": "Dhosa",
+        "image": "image/Dosa.jpg",
+        "discription": "good food",
+        "price": 70
+    },
+    {
+        "id": 8,
+        "name": "Idly",
+        "image": "image/idlyy.jpg",
+        "discription": "good food",
+        "price": 60
+    },
+    {
+        "id": 9,
+        "name": "kothu Porota",
+        "image": "image/kothuparota.jpg",
+        "discription": "good food",
+        "price": 130
+    }
+]

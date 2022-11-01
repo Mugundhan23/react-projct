@@ -1,0 +1,99 @@
+[
+	{
+		"id": 1,
+		"image": "image/dhosai1.jpeg",
+		"name": "Dhosai",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 69.1,
+		"city": "pondicherry 605110"
+	},
+	{
+		"id": 2,
+		"image": "image/idly.jpg",
+		"name": "Idly",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 49.54,
+		"city": "Tamil Nadu 505110"
+	},
+	{
+		"id": 3,
+		"image": "image/poori.jpg",
+		"name": "poori",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 75,
+		"city": "Kerala 6051102"
+	},
+	{
+		"id": 4,
+		"image": "image/uttapam.jpg",
+		"name": "uthappam",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price":  49,
+		"city": "Tamil Nadu 605110"
+	},
+	{
+		"id": 5,
+		"image": "image/parota.jpg",
+		"name": "parota",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price":  49.665,
+		"city":"Mumbai 6005110"
+	},
+	{
+		"id": 6,
+		"image": "image/VenPongal.jpg",
+		"name": "Venpongal",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 59.01,
+		"city": "Delhi 6025110"
+	},
+	{
+		"id": 7,
+		"image": "image/dhosai1.jpeg",
+		"name": "Dhosai",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 49.043,
+		"city": "pondicherry 605110"
+	},
+	{
+		"id": 8,
+		"image": "image/idly.jpg",
+		"name": "Idly",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": 49,
+		"city": "Tamil Nadu 505110"
+	},
+	{
+		"id": 9,
+		"image": "image/poori.jpg",
+		"name": "poori",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": " 75",
+		"city": "Kerala 6051102"
+	},
+	{
+		"id": 10,
+		"image": "image/uttapam.jpg",
+		"name": "uthappam",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": " 49",
+		"city": "Tamil Nadu 605110"
+	},
+	{
+		"id": 11,
+		"image": "image/parota.jpg",
+		"name": "parota",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": " 49",
+		"city":"Mumbai 6005110"
+	},
+	{
+		"id": 12,
+		"image": "image/VenPongal.jpg",
+		"name": "Venpongal",
+		"description": "A food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion",
+		"price": " 59",
+		"city": "Delhi 6025110"
+	}
+]	
+	
